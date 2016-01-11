@@ -4,7 +4,7 @@ Making it easier for your hubot to do cool things with hipchat's api.
 # Installation
 * In your project repo run:
 ``` 
-	npm install hubot-hipchat-apitools --save
+	npm install huchat-tools --save
 ```
 
 * Then wherever you want to use the script just require:
