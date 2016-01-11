@@ -43,4 +43,3 @@ huchat.postHtmlMessage(roomId, '<a href="https://www.hipchat.com">hipchat site</
 // Share a file from a given file path and post with a given alias
 huchat.shareFile(roomId, 'my_file.csv', 'file alias', cb);
 ```
-
